@@ -1,0 +1,198 @@
+{
+  "schema": 1,
+  "projects": [
+    {
+      "id": "oxyra_api",
+      "kind": "native-mod",
+      "name": "Oxyra API",
+      "summary": "The library the other Oxyra mods share: their settings, drawn and kept on their page in Options > Mods.",
+      "description": "Required by every other mod of this library.",
+      "authors": [
+        "Goetic-AlgoFlow"
+      ],
+      "license": "MIT",
+      "versions": [
+        {
+          "version": "0.3.0",
+          "published": "2026-11-03",
+          "game": "26.3",
+          "file": {
+            "name": "oxyra_api-0.3.0.hnmod",
+            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/oxyra_api-0.3.0/oxyra_api-0.3.0.hnmod",
+            "size": 5692,
+            "sha256": "6d4495a6a15faf6d6dd5035205efab17d539c81c0ac5d9cf4429c5154ab3e425"
+          }
+        }
+      ]
+    },
+    {
+      "id": "better_f3",
+      "kind": "native-mod",
+      "name": "BetterF3",
+      "summary": "The F3 screen as coloured modules in two columns, sliding in and out.",
+      "description": "Port of cominixo's and TreyRuffy's BetterF3 (MIT): Minecraft, FPS, Graphics, Server, Coordinates, Chunks, Location, Entities, Sounds, Help, Misc / System, Targeted; each module on or off and coloured.",
+      "authors": [
+        "Goetic-AlgoFlow"
+      ],
+      "license": "MIT",
+      "versions": [
+        {
+          "version": "0.1.1",
+          "published": "2026-11-03",
+          "game": "26.3",
+          "file": {
+            "name": "better_f3-0.1.1.hnmod",
+            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/better_f3-0.1.1/better_f3-0.1.1.hnmod",
+            "size": 9024,
+            "sha256": "b6b9ac9d416c7959e4119de255cd3b53ff31bd989bb55a74365ad5baf30ee855"
+          }
+        }
+      ]
+    },
+    {
+      "id": "immersive_portals",
+      "kind": "native-mod",
+      "name": "Immersive Portals",
+      "summary": "See through Nether and End portals and cross them without a loading screen.",
+      "description": "After qouteall's Immersive Portals: the level behind a portal drawn through it, the crossing landing where the view showed. Single player and LAN host.",
+      "authors": [
+        "Goetic-AlgoFlow"
+      ],
+      "license": "MIT",
+      "versions": [
+        {
+          "version": "0.4.0",
+          "published": "2026-11-03",
+          "game": "26.3",
+          "file": {
+            "name": "immersive_portals-0.4.0.hnmod",
+            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/immersive_portals-0.4.0/immersive_portals-0.4.0.hnmod",
+            "size": 3379,
+            "sha256": "607e0b43ec30a726624b7df79ab127258833c71cde76211874a37a057facd3d3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mod_menu",
+      "kind": "native-mod",
+      "name": "Mod Menu",
+      "summary": "A Mods button on the title screen and the pause menu, and Options > Mods laid out as Mod Menu does.",
+      "description": "After TerraformersMC's Mod Menu: the mod list with search, sorting, libraries, details and each mod's settings.",
+      "authors": [
+        "Goetic-AlgoFlow"
+      ],
+      "license": "MIT",
+      "versions": [
+        {
+          "version": "0.3.0",
+          "published": "2026-11-03",
+          "game": "26.3",
+          "file": {
+            "name": "mod_menu-0.3.0.hnmod",
+            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/mod_menu-0.3.0/mod_menu-0.3.0.hnmod",
+            "size": 3925,
+            "sha256": "1f30b4479adf62b2324df549b62677458d45d86f7da3031fcfb62f727cf1e84c"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mouse_tweaks",
+      "kind": "native-mod",
+      "name": "Mouse Tweaks",
+      "summary": "Drag and wheel controls in inventories.",
+      "description": "After YaLTeR's Mouse Tweaks: right-drag places one per slot, left-drag gathers, Shift-drag moves every slot, the wheel moves one item.",
+      "authors": [
+        "Goetic-AlgoFlow"
+      ],
+      "license": "MIT",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "published": "2026-11-03",
+          "game": "26.3",
+          "file": {
+            "name": "mouse_tweaks-0.1.0.hnmod",
+            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/mouse_tweaks-0.1.0/mouse_tweaks-0.1.0.hnmod",
+            "size": 2306,
+            "sha256": "237388acb501e10cdc804cd3bff8850dbcc89a42d0e9c0072f934b1393e9f0be"
+          }
+        }
+      ]
+    },
+    {
+      "id": "particle_core",
+      "kind": "native-mod",
+      "name": "Particle Core",
+      "summary": "Draws only the particles you can see, for more frames.",
+      "description": "Skips particles out of view, past a distance or past a per-frame limit, each with its setting.",
+      "authors": [
+        "Goetic-AlgoFlow"
+      ],
+      "license": "MIT",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "published": "2026-11-03",
+          "game": "26.3",
+          "file": {
+            "name": "particle_core-0.1.0.hnmod",
+            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/particle_core-0.1.0/particle_core-0.1.0.hnmod",
+            "size": 4204,
+            "sha256": "91960490a30db7f97e0024cccd9116437c85c530919c23ded260fdd6106f5011"
+          }
+        }
+      ]
+    },
+    {
+      "id": "physics",
+      "kind": "native-mod",
+      "name": "Physics",
+      "summary": "Broken blocks, explosions and dead mobs fall apart; doors and trapdoors swing.",
+      "description": "Inspired by haubna's Physics Mod (its behaviour only): broken blocks crumble in tumbling cubes, explosions throw debris, mobs fall as jointed ragdolls you can push and hit, doors and trapdoors swing on a damped spring.",
+      "authors": [
+        "Goetic-AlgoFlow"
+      ],
+      "license": "MIT",
+      "versions": [
+        {
+          "version": "0.3.3",
+          "published": "2026-11-03",
+          "game": "26.3",
+          "file": {
+            "name": "physics-0.3.3.hnmod",
+            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/physics-0.3.3/physics-0.3.3.hnmod",
+            "size": 17162,
+            "sha256": "5e6f20fafb1870d1c4cddb0636585f06d979ecd1d2c80f8e4cb1061649a9acea"
+          }
+        }
+      ]
+    },
+    {
+      "id": "shulker_box_tooltip",
+      "kind": "native-mod",
+      "name": "ShulkerBoxTooltip",
+      "summary": "A container's contents in its tooltip.",
+      "description": "Port of MisterPeModder's ShulkerBoxTooltip (MIT): Shift for the compact preview, Alt as well for the full one, Control to lock it; themes, positions and colours.",
+      "authors": [
+        "Goetic-AlgoFlow"
+      ],
+      "license": "MIT",
+      "versions": [
+        {
+          "version": "0.3.0",
+          "published": "2026-11-03",
+          "game": "26.3",
+          "file": {
+            "name": "shulker_box_tooltip-0.3.0.hnmod",
+            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/shulker_box_tooltip-0.3.0/shulker_box_tooltip-0.3.0.hnmod",
+            "size": 12067,
+            "sha256": "58fadab9fd5eb8d5a840e33cf114b3958dbf776b7ed7e8ffce65df21be253c6d"
+          }
+        }
+      ]
+    }
+  ],
+  "revoked": []
+}
