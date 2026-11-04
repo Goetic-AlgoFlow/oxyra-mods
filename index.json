@@ -194,6 +194,30 @@
       ]
     },
     {
+      "id": "oxyra_fx",
+      "kind": "native-mod",
+      "name": "Oxyra FX",
+      "summary": "Ambient effects around you: cherry petals, autumn leaves, frost, embers, astral dust.",
+      "description": "Port of ActuallyCryx's Vibe Client effects (CC0): each on or off with its colour; density, size and speed for all. The five together cost about 0.3 ms a frame.",
+      "authors": [
+        "Goetic-AlgoFlow"
+      ],
+      "license": "MIT",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "published": "2026-11-04",
+          "game": "26.3",
+          "file": {
+            "name": "oxyra_fx-0.1.0.hnmod",
+            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/oxyra_fx-0.1.0/oxyra_fx-0.1.0.hnmod",
+            "size": 6925,
+            "sha256": "2c12fbd179f7ce933934aac350341bdab8d3ff7cff31f1d3cf3fd7c02b6851a8"
+          }
+        }
+      ]
+    },
+    {
       "id": "shulker_box_tooltip",
       "kind": "native-mod",
       "name": "ShulkerBoxTooltip",

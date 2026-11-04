@@ -17,6 +17,7 @@ launch, on Oxyra's source.
 | Mod Menu | A Mods button on the title screen and the pause menu; Options > Mods as Mod Menu lays it out. After TerraformersMC's Mod Menu. |
 | Mouse Tweaks | Drag and wheel controls in inventories. After YaLTeR's Mouse Tweaks. |
 | Lyrics | The lyrics of the song playing on your PC, word by word in the sky and around you. Port of Henner4746's Lyrics in the Sky (MIT). |
+| Oxyra FX | Ambient effects around you: cherry petals, autumn leaves, frost, embers, astral dust. Port of ActuallyCryx's Vibe Client (CC0). |
 | Particle Core | Draws only the particles you can see. |
 | Physics | Broken blocks, explosions and dead mobs fall apart; doors and trapdoors swing. Inspired by haubna's Physics Mod (its behaviour only). |
 | ShulkerBoxTooltip | A container's contents in its tooltip. Port of MisterPeModder's ShulkerBoxTooltip (MIT). |
