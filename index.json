@@ -218,6 +218,54 @@
       ]
     },
     {
+      "id": "smooth_input",
+      "kind": "native-mod",
+      "name": "Smooth Input",
+      "summary": "Keeps the frame rate with high polling rate mice (1000 to 8000 Hz).",
+      "description": "After decce6's Ixeris (its idea only): the mouse's raw reports are read in batches and applied once a frame instead of one window message each. Windows only. Needs Oxyra with hooks 368.",
+      "authors": [
+        "Goetic-AlgoFlow"
+      ],
+      "license": "MIT",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "published": "2026-11-04",
+          "game": "26.3",
+          "file": {
+            "name": "smooth_input-0.1.0.hnmod",
+            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/smooth_input-0.1.0/smooth_input-0.1.0.hnmod",
+            "size": 3160,
+            "sha256": "d85cca87f6302dd03bab83a64c184d98361aee1b200bf6a5c59b84ed3dfeed23"
+          }
+        }
+      ]
+    },
+    {
+      "id": "client_sort",
+      "kind": "native-mod",
+      "name": "ClientSort",
+      "summary": "Sorts inventories with the middle mouse button; fills stacks, restocks and transfers.",
+      "description": "Port of TerminalMC's ClientSort (Apache-2.0, notice included): Shift sorts by quantity, Control by name, Alt by item ID; orders and keys in its settings. Ordinary clicks only, so it works on any server.",
+      "authors": [
+        "Goetic-AlgoFlow"
+      ],
+      "license": "MIT",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "published": "2026-11-04",
+          "game": "26.3",
+          "file": {
+            "name": "client_sort-0.1.0.hnmod",
+            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/client_sort-0.1.0/client_sort-0.1.0.hnmod",
+            "size": 8444,
+            "sha256": "722425013e513ce891ee84e232bf654dc03c13d62d7757974a75068efe4178a6"
+          }
+        }
+      ]
+    },
+    {
       "id": "shulker_box_tooltip",
       "kind": "native-mod",
       "name": "ShulkerBoxTooltip",
