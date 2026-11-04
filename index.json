@@ -13,14 +13,14 @@
       "license": "MIT",
       "versions": [
         {
-          "version": "0.3.0",
-          "published": "2026-11-03",
+          "version": "0.4.0",
+          "published": "2026-11-04",
           "game": "26.3",
           "file": {
-            "name": "oxyra_api-0.3.0.hnmod",
-            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/oxyra_api-0.3.0/oxyra_api-0.3.0.hnmod",
-            "size": 5692,
-            "sha256": "6d4495a6a15faf6d6dd5035205efab17d539c81c0ac5d9cf4429c5154ab3e425"
+            "name": "oxyra_api-0.4.0.hnmod",
+            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/oxyra_api-0.4.0/oxyra_api-0.4.0.hnmod",
+            "size": 6221,
+            "sha256": "347d2a395dbc98e855bcb11451c3e07750f7e350c3f1148a8ee06fd653e0f868"
           }
         }
       ]
@@ -174,21 +174,21 @@
       "kind": "native-mod",
       "name": "Lyrics",
       "summary": "The lyrics of the song playing on your PC, word by word in the sky and around you.",
-      "description": "Port of Henner4746's Lyrics in the Sky (MIT): Spotify, a browser or any player Windows shows; synced lyrics from lrclib.net (it is sent the song's title, artist and length). Lines in the sky behind the hills, sung words floating around you, or on screen; colour, size and timing in its settings.",
+      "description": "Port of Henner4746's Lyrics in the Sky (MIT): Spotify, a browser or any player Windows shows; synced lyrics from lrclib.net (it is sent the song's title, artist and length). Lines in the sky behind the hills, sung words floating around you, or on screen. Effects as words come and go, colours (a wheel, palettes, rainbow, gradient), a glow drawn with the game's bloom, fonts (a resource pack's TTF too), a live preview on its settings page, a demo to try it in the world and a song card. Needs Oxyra with hooks 370.",
       "authors": [
         "Goetic-AlgoFlow"
       ],
       "license": "MIT",
       "versions": [
         {
-          "version": "0.2.0",
+          "version": "0.3.0",
           "published": "2026-11-04",
           "game": "26.3",
           "file": {
-            "name": "lyrics-0.2.0.hnmod",
-            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/lyrics-0.2.0/lyrics-0.2.0.hnmod",
-            "size": 25065,
-            "sha256": "e2e83ceb23fec60a70b80dd4d8a3d07034276dbd78fa889541b9a6d30a688afa"
+            "name": "lyrics-0.3.0.hnmod",
+            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/lyrics-0.3.0/lyrics-0.3.0.hnmod",
+            "size": 36219,
+            "sha256": "4891fc8749cc0b102fc8e0a9c8d3beead262a4aeaeeb9b136111e19b820832b2"
           }
         }
       ]
