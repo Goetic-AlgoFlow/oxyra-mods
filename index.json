@@ -181,14 +181,14 @@
       "license": "MIT",
       "versions": [
         {
-          "version": "0.4.2",
+          "version": "0.4.3",
           "published": "2026-11-04",
           "game": "26.3",
           "file": {
-            "name": "lyrics-0.4.2.hnmod",
-            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/lyrics-0.4.2/lyrics-0.4.2.hnmod",
-            "size": 40647,
-            "sha256": "6517f1144a50dc8ce57d69b7704d738bf868cb10b3a431d595874e08ffedb0b3"
+            "name": "lyrics-0.4.3.hnmod",
+            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/lyrics-0.4.3/lyrics-0.4.3.hnmod",
+            "size": 41171,
+            "sha256": "6491691c176feb85e7b4d4087fe411c9f9e43bc8eafbce11e1dddf1af71d9dd5"
           }
         }
       ]
