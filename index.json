@@ -13,14 +13,14 @@
       "license": "MIT",
       "versions": [
         {
-          "version": "0.5.0",
+          "version": "0.6.0",
           "published": "2026-11-04",
           "game": "26.3",
           "file": {
-            "name": "oxyra_api-0.5.0.hnmod",
-            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/oxyra_api-0.5.0/oxyra_api-0.5.0.hnmod",
-            "size": 8683,
-            "sha256": "bec5fe046fd9c34dd5c17f96eda1993cd1466f1407a1e8593f2b82cf193eddc9"
+            "name": "oxyra_api-0.6.0.hnmod",
+            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/oxyra_api-0.6.0/oxyra_api-0.6.0.hnmod",
+            "size": 8816,
+            "sha256": "6be63cbd7ada848c9bc6112863db5c80f2902c60656c78d8236cec0d46c3ccbc"
           }
         }
       ]
@@ -181,14 +181,14 @@
       "license": "MIT",
       "versions": [
         {
-          "version": "0.4.0",
+          "version": "0.4.1",
           "published": "2026-11-04",
           "game": "26.3",
           "file": {
-            "name": "lyrics-0.4.0.hnmod",
-            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/lyrics-0.4.0/lyrics-0.4.0.hnmod",
-            "size": 39654,
-            "sha256": "1d90c0e4771d41e9fbe133fc92133ea04b7ab251bffe5c219b37671340e411ea"
+            "name": "lyrics-0.4.1.hnmod",
+            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/lyrics-0.4.1/lyrics-0.4.1.hnmod",
+            "size": 39744,
+            "sha256": "ad1aa48ed28b470772725e95966711fb7c5c89ee32e8627d9ace602c755d020f"
           }
         }
       ]
@@ -205,14 +205,14 @@
       "license": "MIT",
       "versions": [
         {
-          "version": "0.2.0",
+          "version": "0.2.1",
           "published": "2026-11-04",
           "game": "26.3",
           "file": {
-            "name": "oxyra_fx-0.2.0.hnmod",
-            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/oxyra_fx-0.2.0/oxyra_fx-0.2.0.hnmod",
-            "size": 19099,
-            "sha256": "dde20d6ac6d0648d8e3aad89a1f19108261f9744fea6f27c81ac9c96422cdfae"
+            "name": "oxyra_fx-0.2.1.hnmod",
+            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/oxyra_fx-0.2.1/oxyra_fx-0.2.1.hnmod",
+            "size": 19847,
+            "sha256": "5b2b3525b78da0b725fe856655a840b07e63d0083ad158b4235470db943019eb"
           }
         }
       ]
