@@ -5,7 +5,7 @@
       "id": "oxyra_api",
       "kind": "native-mod",
       "name": "Oxyra API",
-      "summary": "The library the other Oxyra mods share: their settings, drawn and kept on their page in Options > Mods.",
+      "summary": "The library the other Oxyra mods share: their settings (sliders, colours, help), drawn and kept on their page in Options > Mods.",
       "description": "Required by every other mod of this library.",
       "authors": [
         "Goetic-AlgoFlow"
@@ -13,14 +13,14 @@
       "license": "MIT",
       "versions": [
         {
-          "version": "0.4.0",
+          "version": "0.5.0",
           "published": "2026-11-04",
           "game": "26.3",
           "file": {
-            "name": "oxyra_api-0.4.0.hnmod",
-            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/oxyra_api-0.4.0/oxyra_api-0.4.0.hnmod",
-            "size": 6221,
-            "sha256": "347d2a395dbc98e855bcb11451c3e07750f7e350c3f1148a8ee06fd653e0f868"
+            "name": "oxyra_api-0.5.0.hnmod",
+            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/oxyra_api-0.5.0/oxyra_api-0.5.0.hnmod",
+            "size": 8683,
+            "sha256": "bec5fe046fd9c34dd5c17f96eda1993cd1466f1407a1e8593f2b82cf193eddc9"
           }
         }
       ]
@@ -174,21 +174,21 @@
       "kind": "native-mod",
       "name": "Lyrics",
       "summary": "The lyrics of the song playing on your PC, word by word in the sky and around you.",
-      "description": "Port of Henner4746's Lyrics in the Sky (MIT): Spotify, a browser or any player Windows shows; synced lyrics from lrclib.net (it is sent the song's title, artist and length). Lines in the sky behind the hills, sung words floating around you, or on screen. Effects as words come and go, colours (a wheel, palettes, rainbow, gradient), a glow drawn with the game's bloom, fonts (a resource pack's TTF too), a live preview on its settings page, a demo to try it in the world and a song card. Needs Oxyra with hooks 370.",
+      "description": "Port of Henner4746's Lyrics in the Sky (MIT): Spotify, a browser or any player Windows shows; synced lyrics from lrclib.net (it is sent the song's title, artist and length). Lines in the sky behind the hills, sung words floating around you, or on screen. Effects as words come and go, colours (a wheel, palettes, rainbow, gradient), a glow drawn with the game's bloom, fonts (a resource pack's TTF too), a live preview on its settings page, a demo to try it in the world and a song card. With Oxyra FX (optional): light where words come and go and a ball that bounces onto each word. Needs Oxyra with hooks 371.",
       "authors": [
         "Goetic-AlgoFlow"
       ],
       "license": "MIT",
       "versions": [
         {
-          "version": "0.3.0",
+          "version": "0.4.0",
           "published": "2026-11-04",
           "game": "26.3",
           "file": {
-            "name": "lyrics-0.3.0.hnmod",
-            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/lyrics-0.3.0/lyrics-0.3.0.hnmod",
-            "size": 36219,
-            "sha256": "4891fc8749cc0b102fc8e0a9c8d3beead262a4aeaeeb9b136111e19b820832b2"
+            "name": "lyrics-0.4.0.hnmod",
+            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/lyrics-0.4.0/lyrics-0.4.0.hnmod",
+            "size": 39654,
+            "sha256": "1d90c0e4771d41e9fbe133fc92133ea04b7ab251bffe5c219b37671340e411ea"
           }
         }
       ]
@@ -197,22 +197,22 @@
       "id": "oxyra_fx",
       "kind": "native-mod",
       "name": "Oxyra FX",
-      "summary": "Ambient effects around you: cherry petals, autumn leaves, frost, embers, astral dust.",
-      "description": "Port of ActuallyCryx's Vibe Client effects (CC0): each on or off with its colour; density, size and speed for all. The five together cost about 0.3 ms a frame.",
+      "summary": "An effects library: light pillars, rune blooms, fairy rings, energy vortices, prismatic ribbons, wandering souls and more, with light that adds up.",
+      "description": "Port of ActuallyCryx's Vibe Client effects (CC0), one to one: its painted sprites, its 17 effects and its two passes (blended, and additive light hidden by what stands in front). Each effect on or off with its colour; density, size, speed for all; a test setting. Other mods (Lyrics) use it for their own effects. Needs Oxyra with hooks 371.",
       "authors": [
         "Goetic-AlgoFlow"
       ],
       "license": "MIT",
       "versions": [
         {
-          "version": "0.1.0",
+          "version": "0.2.0",
           "published": "2026-11-04",
           "game": "26.3",
           "file": {
-            "name": "oxyra_fx-0.1.0.hnmod",
-            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/oxyra_fx-0.1.0/oxyra_fx-0.1.0.hnmod",
-            "size": 6925,
-            "sha256": "2c12fbd179f7ce933934aac350341bdab8d3ff7cff31f1d3cf3fd7c02b6851a8"
+            "name": "oxyra_fx-0.2.0.hnmod",
+            "url": "https://github.com/Goetic-AlgoFlow/oxyra-mods/releases/download/oxyra_fx-0.2.0/oxyra_fx-0.2.0.hnmod",
+            "size": 19099,
+            "sha256": "dde20d6ac6d0648d8e3aad89a1f19108261f9744fea6f27c81ac9c96422cdfae"
           }
         }
       ]
